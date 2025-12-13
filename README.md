@@ -1,46 +1,60 @@
-<h1 align="left" id="title">👋 Hey, I'm Mahmoud</h1>
-<h3 align="left">Frontend Developer — React | TypeScript | UI/UX</h3>
+<!-- ===================== HEADER ANIMATION ===================== -->
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AL-Shewehi&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/followers/AL-Shewehi?style=for-the-badge&logo=github&color=000" />
-  <img src="https://img.shields.io/github/stars/AL-Shewehi?style=for-the-badge&logo=github&color=yellow" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code&
+  size=28&
+  duration=3000&
+  pause=1000&
+  color=38BDF8&
+  center=true&
+  vCenter=true&
+  width=650&
+  lines=Hi%2C+I'm+Mahmoud+👋;
+  Frontend+Developer;
+  React+%7C+TypeScript+%7C+UI%2FUX;
+  Building+Modern+Web+Apps" />
+</p>
 
-  <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=120&section=header"/>
+
+---
+
+<h1 align="center">👋 Hey, I'm Mahmoud Al-Shewehi</h1>
+<h3 align="center">Frontend Developer — React | TypeScript | UI/UX</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AL-Shewehi&style=for-the-badge&color=38BDF8" />
+  <img src="https://img.shields.io/github/followers/AL-Shewehi?style=for-the-badge&logo=github&color=111827" />
+  <img src="https://img.shields.io/github/stars/AL-Shewehi?style=for-the-badge&logo=github&color=FACC15" />
+
+  <a href="https://www.linkedin.com/in/mahmoud-alshewihi-377a9434a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 
-  <a href="mailto:YOUR-MAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:alshwyhym97@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
   </a>
 
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=google-chrome" />
+  <a href="https://gotik-smm.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=google-chrome" />
   </a>
 </p>
 
 ---
 
-<a href="#title">
-  <img
-    src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg"
-    alt="stats" align="right" width="400"
-/>
-</a>
+## 💬 About Me
 
-### 💬 About Me
-
-- 🎯 Frontend Developer focusing on **React – UI/UX – API Integration**
-- 🌱 Currently learning **TypeScript + Next.js**
-- ⚡ Building **Dashboards, Panels, SMM Website**
-- 💬 Ask me about **React, Tailwind, Bootstrap, APIs**
-- 🚀 Always improving my skills & building real projects
-
-<br><br>
+- 🎯 **Frontend Developer** متخصص في **React – UI/UX – API Integration**
+- 🌱 حاليًا بتعلم **TypeScript + Next.js**
+- ⚡ بشتغل على **Dashboards – Panels – SMM Web Apps**
+- 🎨 مهتم بـ **Responsive Design & Clean UI**
+- 💬 اسألني عن **HTML, CSS, JavaScript, React, Tailwind, Bootstrap**
+- 🚀 دايمًا ببني مشاريع حقيقية وبطوّر نفسي
 
 ---
 
-# ⚙️ **Tech Stack**
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma,postman,git,github,vscode" />
@@ -48,7 +62,17 @@
 
 ---
 
-# 📊 GitHub Stats
+## 🚀 Featured Projects
+
+| Project | Tech | Link |
+|-------|------|------|
+| **Gotik SMM** | HTML, CSS, JavaScript | https://gotik-smm.netlify.app |
+| **Weatherly App** | React, API | https://weatherlyproject.netlify.app |
+| **Taupe Buttercream** | HTML, CSS | https://taupe-buttercream-a73abe.netlify.app |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://streak-stats.demolab.com/?user=AL-Shewehi&theme=tokyonight" />
@@ -61,14 +85,18 @@
 
 ---
 
-# 🐍 Contribution Snake Graph
+## 🐍 Contribution Snake Graph
 
-<img src="https://raw.githubusercontent.com/MacroPower/MacroPower/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/AL-Shewehi/AL-Shewehi/output/github-contribution-grid-snake.svg" />
 
 ---
 
-# 🌐 Contact
+## 🌐 Contact
 
-- 🌍 **Portfolio:** your-portfolio.com  
-- ✉️ **Email:** alshwyhym97@gmail.com 
-- 💼 **LinkedIn:** www.linkedin.com/in/mahmoud-alshewihi-377a9434a
+- 🌍 Portfolio: https://gotik-smm.netlify.app  
+- ✉️ Email: alshwyhym97@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/mahmoud-alshewihi-377a9434a  
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:38BDF8&height=120&section=footer"/>
