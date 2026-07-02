@@ -1,118 +1,138 @@
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=120&section=header"/>
+<sub>&nbsp;🔴&nbsp;&nbsp;🟡&nbsp;&nbsp;🟢&nbsp;&nbsp;&nbsp;`developer.js`</sub>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=00FF9C&background=0D1117&center=true&vCenter=true&width=650&height=210&lines=const+dev+%3D+%7B%7D%3B;dev.name+%3D+%22Mahmoud+Al-Shewehi%22%3B;dev.role+%3D+%22Front-End+Developer%22%3B;dev.stack+%3D+%5B%22React%22%2C+%22Next.js%22%2C+%22Supabase%22%5D%3B;dev.building+%3D+%22Socially+-+Real-Time+Platform%22%3B" alt="JS Typing SVG" />
 
-<h1 align="center">👋 Hey, I'm Mahmoud</h1>
-<h3 align="center">Frontend Engineer — Building Scalable React & Next.js Applications</h3>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AL-Shewehi&style=for-the-badge&color=38BDF8" />
-  <img src="https://img.shields.io/github/followers/AL-Shewehi?style=for-the-badge&logo=github&color=111827" />
-  <img src="https://img.shields.io/github/stars/AL-Shewehi?style=for-the-badge&logo=github&color=FACC15" />
+<br/>
 
-  <a href="https://www.linkedin.com/in/mahmoud-alshewihi">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
+<div align="center">
 
-  <a href="mailto:alshwyhym97@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
-  </a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.alshewihi.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-alshewihi)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alshwyhym97@gmail.com)
 
-  <a href="https://www.alshewihi.me">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6366F1?style=for-the-badge&logo=google-chrome" />
-  </a>
-</p>
+</div>
 
----
+<br/>
 
-## 💬 About Me
+## 🚀 About Me
 
-- 🎯 Frontend Engineer focused on building **scalable, production-ready applications**
-- ⚡ Specialized in **React & Next.js (App Router)** with strong UI architecture practices
-- 🎨 Transforming complex **Figma designs** into responsive, accessible interfaces
-- 🏗️ Experienced in **component architecture, state management & role-based routing systems**
-- 🚀 Building real-world systems like LMS platforms, dashboards, and SaaS-style apps
+```js
+const mahmoud = {
+  name: "Mahmoud Al-Shewehi",
+  role: "Front-End Developer",
+  focus: "React.js & Next.js | Real-Time Web Apps",
+  currentlyBuilding: "Socially — a real-time social platform on Supabase",
+  education: "Bachelor of Commerce, Mansoura University (Expected 2028)",
+  funFact: "Chasing 100% Lighthouse scores like they're achievements to unlock 🏆",
+};
+```
 
----
+<br/>
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Stack
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frameworks** | `Next.js (App Router)` `React.js` `JavaScript (ES6+)` |
-| **Styling** | `Tailwind CSS` `Bootstrap` `Material UI (MUI)` |
-| **Animations** | `GSAP` `Framer Motion` |
-| **Tools** | `Git` `GitHub` `Postman` `Figma` `Vercel` `VS Code` |
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,bootstrap,supabase,postgres,git,github,figma&theme=dark&perline=13" />
+</div>
 
----
+<div align="center">
 
-## 🚀 Featured Projects
+<sub>**Also in the toolbox:** MUI · Postman · React Query · Context API · Framer Motion · Recharts · Sentry · RESTful APIs</sub>
 
-### 🌐 Personal Portfolio
-**Next.js • Tailwind CSS • GSAP • Framer Motion**
+</div>
 
-🔗 **Live Demo:** https://www.alshewihi.me  
+<br/>
 
-> Production-level portfolio featuring advanced scroll-triggered animations, dark/light theme system, and optimized UI structure.
+## 💼 Featured Projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🎓 Prof Academy — Learning Management System
-**React • Tailwind CSS • REST API • Role-Based Access**
+### 🌐 [Socially](https://socially-tau-wine.vercel.app/)
+**Real-Time Social Media Platform**
 
-🔗 **Live Demo:** https://prof-academy-ruby.vercel.app/  
-🔒 Source Code: Private (Available upon request)
+Instant messaging, notifications & feed updates via **Supabase Broadcast**. Server-state handled with **React Query**, crash monitoring with **Sentry**, sub-200ms response times.
 
-> Full-featured LMS with role-based authentication, protected routes, dynamic dashboards, exam submission system, and API-driven state management.
+`Next.js` `Supabase` `TypeScript` `React Query` `Sentry`
 
----
+[![Demo](https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white)](https://socially-tau-wine.vercel.app/)
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AL-Shewehi/socially)
 
-## 🧠 Engineering Highlights
+</td>
+<td width="50%" valign="top">
 
-- Role-based authentication & protected routing
-- API integration with dynamic data rendering
-- Reusable component-driven architecture
-- Optimized rendering & clean state structure
-- Responsive dashboard systems
-- Production-focused UI patterns
+### 📈 [CryptoPulse](https://cryptopulse-chi-three.vercel.app)
+**Crypto Trading Dashboard**
 
----
+Live market data via the **Binance API**, animated charts with **Recharts**, and a **100% Lighthouse score** in Best Practices & Accessibility.
 
-## 📌 Project Quick Links
+`Next.js` `TypeScript` `Recharts` `Framer Motion`
 
-| Project | Tech Stack | Link |
-|:---|:---|:---|
-| **Modern Portfolio** | Next.js, GSAP, Tailwind | https://www.alshewihi.me |
-| **Prof Academy** | React, Tailwind, API | https://prof-academy-ruby.vercel.app/ |
-| **E-Commerce Store** | React, Bootstrap, API | https://ecommerce-sage-nine-78.vercel.app |
-| **Weatherly App** | React, Context API | https://weatherlyproject.netlify.app |
+[![Demo](https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white)](https://cryptopulse-chi-three.vercel.app)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 📊 GitHub Stats
+### 🛒 [FlowMart](https://flowmart-main.vercel.app/)
+**E-Commerce Application**
 
-<p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=AL-Shewehi&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AL-Shewehi&show_icons=true&theme=tokyonight" />
-</p>
+Dynamic product listings, advanced filtering, cart & wishlist, and a full checkout flow backed by **Supabase**.
 
----
+`Next.js` `Tailwind CSS` `Supabase`
 
-## 🐍 Contribution Snake
+[![Demo](https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white)](https://flowmart-main.vercel.app/)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AL-Shewehi/AL-Shewehi/output/github-contribution-grid-snake.svg" />
-</p>
+</td>
+<td width="50%" valign="top">
 
----
+### 🎓 [Prof Academy](https://prof-academy-ruby.vercel.app/student/home)
+**E-Learning Platform**
 
-## 🌐 Contact
+Full **RBAC system** for Admins, Teachers & Students, course tracking, and a live teacher dashboard.
 
-- LinkedIn: https://www.linkedin.com/in/mahmoud-alshewihi  
-- Portfolio: https://www.alshewihi.me  
-- Email: alshwyhym97@gmail.com  
+`React` `Tailwind CSS` `REST API`
 
----
+[![Demo](https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white)](https://prof-academy-ruby.vercel.app/student/home)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🗂️ More Projects</b></summary>
+<br/>
+
+| Project | Stack | Link |
+|---|---|---|
+| 🛍️ E-Commerce Platform | React, Tailwind CSS, JSON | [Live Demo](https://ecommerce-sage-nine-78.vercel.app/) |
+| 📱 GOTIK — SMM Website | HTML, CSS, API | [Live Demo](https://gotik.vercel.app) |
+
+</details>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AL-Shewehi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://streak-stats.demolab.com/?user=AL-Shewehi&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AL-Shewehi&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="98%"/>
+</div>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:38BDF8&height=120&section=footer"/>
+
+<div align="center">
+<sub>📫 Reach me: <a href="mailto:alshwyhym97@gmail.com">alshwyhym97@gmail.com</a> · <a href="https://www.alshewihi.me">alshewihi.me</a></sub>
+</div>
